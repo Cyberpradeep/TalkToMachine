@@ -216,7 +216,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Team
 
 - **Cyberpradeep** - Project Lead - [@Cyberpradeep](https://github.com/Cyberpradeep)
-- **Malleswaran-p** - Team Member - [@Malleswaran-p](https://github.com/Malleswaran-p)
+- **Malleswaran-p** - Team Member - [@Malleswaran-p](https://github.com/Mallesh14)
 - **Harish Kanna** - Team Member
 
 ---
