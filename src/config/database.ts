@@ -159,3 +159,10 @@ export const retryOperation = async <T>(
 
   throw new DatabaseError(`Operation failed after ${maxRetries} attempts`, lastError!);
 };
+
+// Export convenience function for backward compatibility
+export const connectDatabase = async (): Promise<void> => {
+  const config = process.env.MONGODB_URI || 'mongodb://localhost:27017/talktomachine';
+  const db = DatabaseConnection.getInstance();
+  await db.connect({ uri: config });
+};

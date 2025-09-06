@@ -1,4 +1,9 @@
 import { Request, Response, NextFunction } from 'express';
+
+// Extend Request interface to include files property for file uploads
+interface RequestWithFiles extends Request {
+  files?: any[] | undefined;
+}
 import Joi from 'joi';
 import { logger } from '../utils/logger';
 import { config } from '../config/environment';
@@ -115,7 +120,7 @@ export function validateFileUpload(options: {
   const maxFiles = options.maxFiles || 1;
   const required = options.required !== false;
 
-  return (req: Request, res: Response, next: NextFunction): void => {
+  return (req: RequestWithFiles, res: Response, next: NextFunction): void => {
     const trace_id = req.user?.trace_id || uuidv4();
 
     try {
