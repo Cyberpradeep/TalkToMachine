@@ -1,3 +1,5 @@
+# Our team is currently working on this project
+
 # 🤖 TalkToMachine
 
 **AI-Powered Vernacular Voice + Text Assistant for MSME Machine Operators**
