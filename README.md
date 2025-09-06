@@ -225,7 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Pradeep** - [@Cyberpradeep](https://github.com/Cyberpradeep)
 - 📧 Email: pradeepnaveen930@gmail.com
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/cyberpradeep)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/harishkanna-p-2079972a0 )
 
 ---
 
