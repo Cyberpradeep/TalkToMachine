@@ -201,12 +201,6 @@ npm run dev:server    # Backend (Express)
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
----
-
 
 ## 👥 Team
 
