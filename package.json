@@ -22,6 +22,8 @@
     "language:demo": "npx ts-node src/modules/query/demo.ts",
     "monitor": "node scripts/monitor.js",
     "monitor:watch": "watch 'npm run monitor' scripts/",
+    "setup": "node scripts/setup.js",
+    "webhook": "node scripts/webhook-handler.js",
     "clean": "rimraf dist",
     "prebuild": "npm run clean",
     "postinstall": "npm run build"
