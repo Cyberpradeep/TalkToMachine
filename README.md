@@ -4,7 +4,7 @@
 
 **AI-Powered Vernacular Voice + Text Assistant for MSME Machine Operators**
 
-An intelligent assistant that helps machine operators communicate with their equipment through voice and text in local languages, featuring real- 
+An intelligent assistant that helps machine operators communicate with their equipment through voice and text in local languages,featuring real- 
 
 ## 🎯 Overview
 
@@ -15,7 +15,7 @@ TalkToMachine bridges the communication gap between MSME machine operators and t
 - 🧠 **Smart Search**: AI searches through uploaded machine manuals and FAQs
 - 🗣️ **Voice Response**: Get answers back in both text and voice
 - ⚠️ **Critical Issue Detection**: Automatic warnings for dangerous situations
-- 🔔 **Real-time Alerts**: Instant notifications to supervisors for critical issues
+- 🔔 **Real-time Alerts**: Instant notifications to supervisors for critical issue
 
 ---
 
